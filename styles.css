@@ -1,0 +1,35 @@
+.container{
+  display: flex;
+  width: 100%;
+  min-width: 1000px;
+  border: 1px solid black;
+  min-height: 1000px;
+  justify-content: center;
+}
+
+.main-pic{
+  background: url("./images/your_verse_hero.jpg");
+  background-position: -200px -300px;
+  background-repeat: no-repeat;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+.navbar button {
+  padding: 10px 25px;
+  margin: 0;
+  font-weight: 500;
+}
+
+.end {
+
+  
+}
