@@ -11,7 +11,7 @@
   background: url("./images/your_verse_hero.jpg");
   background-position: -200px -300px;
   background-repeat: no-repeat;
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,6 +34,21 @@
     );
   color: white;
   font-weight: bold;
+}
+
+.lower-row-item{
+  min-width: 250px;
+  min-height: 250px;
+  background-repeat: no-repeat;
+}
+
+.fiveS {
+  background: url('./images/promo_iphone5s.jpg');
+
+}
+
+.fiveC{
+  background: url('./images/promo_iphone5c.jpg');
 }
 
 .end {
