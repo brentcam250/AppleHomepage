@@ -36,19 +36,37 @@
   font-weight: bold;
 }
 
+.lower-row {
+  display: flex;
+  flex: 1;
+}
+
 .lower-row-item{
+  flex: 1;
   min-width: 250px;
   min-height: 250px;
-  background-repeat: no-repeat;
 }
 
 .fiveS {
   background: url('./images/promo_iphone5s.jpg');
+  background-repeat: no-repeat;
 
 }
 
 .fiveC{
   background: url('./images/promo_iphone5c.jpg');
+  background-repeat: no-repeat;
+
+}
+
+.bday{
+  background: url('./images/promo_30_years.jpg');
+  background-repeat: no-repeat;
+}
+
+.supplier{
+  background: url('./images/promo_supplier_responsibility.jpg');
+  background-repeat: no-repeat;
 }
 
 .end {
