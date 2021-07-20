@@ -3,9 +3,11 @@
   flex: 1;
   width: 100%;
   min-width: 1000px;
-  border: 1px solid black;
-  min-height: 1000px;
+  /* border: 1px solid black; */
+  /* min-height: 1000px; */
   justify-content: center;
+  margin: 0;
+  padding: 0;
 }
 
 .main-pic{
@@ -13,6 +15,7 @@
   background-position: -200px -300px;
   background-repeat: no-repeat;
   width: 100%;
+  min-height: 1000px;
   display: flex;
   flex: 1;
   flex-direction: column;
