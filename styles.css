@@ -93,3 +93,14 @@ h2{
 
   
 }
+
+.footer {
+  color: grey;
+  font-size: small;
+  margin: 10px;
+}
+
+.footer p {
+  margin-top: 0;
+  padding: 0px 10px;
+}
