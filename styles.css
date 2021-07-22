@@ -12,7 +12,7 @@
 
 .main-pic{
   background: url("./images/your_verse_hero.jpg");
-  background-position: -200px -300px;
+  background-position: -100px -300px;
   background-repeat: no-repeat;
   width: 100%;
   min-height: 1000px;
@@ -26,7 +26,8 @@
 .main-pic-text{
   color: white;
   font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 20;
+  font-weight:lighter
+  font-size: x-large;
   display: flex;
   align-items: center;
   flex-direction: column;
