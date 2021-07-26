@@ -3,6 +3,7 @@
   flex: 1;
   width: 100%;
   min-width: 1000px;
+  max-width: 1368px;
   /* border: 1px solid black; */
   /* min-height: 1000px; */
   justify-content: center;
@@ -91,11 +92,11 @@ h2{
 }
 
 .left-end {
-  border-radius: 15px 0px 0px 15px;
+  border-radius: 8px 0px 0px 8px;
 }
 
 .right-end {
-  border-radius: 0px 15px 15px 0px;
+  border-radius: 0px 8px 8px 0px;
 }
 
 .footer {
