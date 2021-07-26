@@ -90,9 +90,12 @@ h2{
   background-repeat: no-repeat;
 }
 
-.end {
+.left-end {
+  border-radius: 15px 0px 0px 15px;
+}
 
-  
+.right-end {
+  border-radius: 0px 15px 15px 0px;
 }
 
 .footer {
